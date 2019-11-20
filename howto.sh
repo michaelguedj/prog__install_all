@@ -12,6 +12,12 @@
 ## -- see the file MIT-LICENSE.txt
 ##
 
+if [ -e prog__install_all ]
+then 
+	rm -r prog__install_all
+fi
+
+
 git clone "https://github.com/michaelguedj/prog__install_all"
 cd prog__install_all
 bash install_all.sh

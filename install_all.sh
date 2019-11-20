@@ -25,7 +25,7 @@
 ##  some of them have an installer to install some programs;
 ##  the goal is to install these programs.
 ##
-## Version: 0.1
+## Version: 0.2
 ##
 ## Date: 20/11/2019
 ##
