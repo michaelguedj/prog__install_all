@@ -14,7 +14,7 @@
 
 if [ -e prog__install_all ]
 then 
-	rm -r prog__install_all
+	rm -fr prog__install_all
 fi
 
 
