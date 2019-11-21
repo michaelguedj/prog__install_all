@@ -1,3 +1,8 @@
+prog__thumbnailsMaker
+prog__conditions_vers_tableur
+ens__probabilites
+prog__install_all
+prog__getmygithub
 prog__srt2txt
 prog__sharpdoc
 prog__magix
